@@ -19,9 +19,7 @@ module.exports = {
     },
     goerli: {
       url: "https://polygon-mumbai.g.alchemy.com/v2/CRnDzKNQrmDfAuVY-zMezxkX8vIGosU2",
-      accounts: [
-        "6a7fabfafadb006fd202e18594223a57a2fca9675cb89f58fd1d8de0027ab8c2",
-      ],
+      accounts: [""],
     },
   },
   solidity: {
